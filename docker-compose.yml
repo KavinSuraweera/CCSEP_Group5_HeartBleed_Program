@@ -1,0 +1,7 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: "ccsep_assignment01_fe"
+    image: "docker-react-i"
+
